@@ -8,23 +8,19 @@ To determine how different fundraising campaigns fared in relation to their laun
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The following chart was created to visualize the the number of successful, failed, and canceled campaigns for each month over an eight year period from 2009 to 2017 for the category (Theater). The data set that this chart was built on can be found below the chart.
+The following chart was created to visualize the the number of successful, failed, and canceled campaigns for each month over an eight year period from 2009 to 2017 for the category (Theater). 
 
-<Insert Chart here>
-
-<Insert Data Set>
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82769305/116014239-4d2ef300-a602-11eb-9e21-cecfbe8ab236.png)
 
 There are a few insights that can be gleamed from this chart.
-1.) The number of successful campaigns is at its highest in May.
-2.) The number of successful campaigns is at its lowest in December, and is equal to the amount of failed campaigns.
-3.) The number of canceled campaigns is minimal compared to the grand total of campaigns run per month.
+1. The number of successful campaigns is at its highest in May.
+2. The number of successful campaigns is at its lowest in December, and is equal to the amount of failed campaigns.
+3. The number of canceled campaigns is minimal compared to the grand total of campaigns run per month.
 
 ### Analysis of Outcomes Based on Goals
-The following chart was created to show the outcome of campaigns based on their funding goals for the subcategory "plays". The data set that this chart was built on can be found below the chart.
+The following chart was created to show the outcome of campaigns based on their funding goals for the subcategory "plays". 
 
-<Insert Chart here>
-
-<Insert Data Set>
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82769305/116014250-6172f000-a602-11eb-82e7-b8259d915b9d.png)
 
 From the chart, campaigns are most successful in the $0-$10000 fundraising range. As the fundraising goal rises, so does the number of failed campaigns.
 
@@ -36,12 +32,11 @@ Looking at the dataset provided for the "Outcome Based on Goals" chart, it was d
 
 ### Conclusion - Theater Outcomes by Date
 Based on the analysis, one can conclude the following:
-1.) May has the highest of successful theater campaigns. Therefore any future theater campaign plans, should focus more on the Month of May.
-2.) December has the lowest number of successful theater campaigns, therefore it would be prudent to avoid fundraising in December.
+1. May has the highest of successful theater campaigns. Therefore any future theater campaign plans, should focus more on the Month of May.
+2. December has the lowest number of successful theater campaigns, therefore it would be prudent to avoid fundraising in December.
 
 ### Conclusion - Outcomes based on Goals
-Based on the analysis, one can conclude:
-1.) Plays with fundraising goals under $5000 have the highest success rate, and therefore future fundraising goals for plays should fall within that range.
+Based on the analysis, one can conclude that plays with fundraising goals under $5000 have the highest success rate, and therefore future fundraising goals for plays should fall within that range.
 
 ### Summary of Limitations
 The current dataset and charts created do not allow us to see the success rate based on goals per month, or per country. This would help in determining trends on when and where the populace would be more open to spending more money.
